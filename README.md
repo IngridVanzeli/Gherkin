@@ -21,10 +21,10 @@ E insiro os dados de acesso do <rede> de uma conta válida<br>
 Then consigo realizar meu login no sistema da Udemy<br>
 <br>
 Examples: <br>
-	|rede    |<br>
-	|Google  |<br>
-	|Facebook|<br>
-	|Apple   |<br>
+	&emsp;|rede    |<br>
+	&emsp;|Google  |<br>
+	&emsp;|Facebook|<br>
+	&emsp;|Apple   |<br>
 <br>
 Scenario: Login com dados incorretos<br>
 E eles estão incorretos para login<br>
