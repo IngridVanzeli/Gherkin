@@ -1,12 +1,12 @@
 # Gherkin
 
 Este repositório tem como finalizadade exibir um exemplo de escrita de uma user story em Gherkin
-<br>
+<br><br>
 Feature: Login na Udemy<br>
 <br>
-  Eu como usuário da udemy<br>
-  Quero ter acesso a plataforma<br>
-  Porque assim consigo fazer meus cursos para me qualificar<br>
+  &emsp;Eu como usuário da udemy<br>
+  &emsp;Quero ter acesso a plataforma<br>
+  &emsp;Porque assim consigo fazer meus cursos para me qualificar<br>
 <br>
 Background: Acesso a plataforma<br>
 Given que sou usuário da Udemy <br>
